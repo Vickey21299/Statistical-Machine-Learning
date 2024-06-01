@@ -82,4 +82,4 @@ In summary, CNNs emerge as the preferred choice for automated waste classificati
 
 ---
 
-[View Full Report (final_ppt_2021121_2021299.pdf)](./final_ppt_2021121_2021299.pdf)
+[View Full Report (final_ppt_2021121_2021299.pdf)](https://github.com/Vickey21299/Statistical-Machine-Learning/blob/main/SML_PROJECT/SML_PROJECT/final_ppt_2021121_2021299.pdf)
