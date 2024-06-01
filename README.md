@@ -1,6 +1,6 @@
 # Waste Classifier for Degradable and Non-Biodegradable Wastes
 
-[View Full Report (final_ppt_2021121_2021299.pdf)](https://github.com/Vickey21299/Statistical-Machine-Learning/blob/main/SML_PROJECT/SML_PROJECT/final_report_2021299_2021121.pdf)
+[View Full Report](https://github.com/Vickey21299/Statistical-Machine-Learning/blob/main/SML_PROJECT/SML_PROJECT/final_report_2021299_2021121.pdf)
 ## Team Members
 - Abhishek IIITD (2021121)
 - Vickey Kumar (2021299)
