@@ -44,12 +44,12 @@ Reduction techniques such as PCA and LDA for feature extraction and classificati
   - Class 1: 44%
 - **Decision Trees:**
   - Accuracy: 44%
-  - Class 0: 11%
-  - Class 1: 70%
+  - Class 0: 28%
+  - Class 1: 60%
 - **CNN:**
   - Accuracy: 88%
-  - Class 0: 63%
-  - Class 1: 37%
+  - Class 0: 89%
+  - Class 1: 87%
 
 ## Datasets Used
 - Created new datasets using data augmentation techniques like flipping around y-axis, random rotation, flipping around x-axis, and adding noise.
